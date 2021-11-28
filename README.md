@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/woofmusicbot"><img src="https://github.com/W29F/MailXMusicVideo/raw/main/driver/maillogo.png"></a></p>
+<p align="center"><a href="https://t.me/woofmusicbot"><img src="https://github.com/W29F/MailXMusicVideo/raw/main/driver/maillogo.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 
